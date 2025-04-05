@@ -1,2 +1,3 @@
 Hi Everyone
-here we are introducing rapido bike in our rapido app
+here we are introducing rapido bike in our rapido app.
+we have two payment options cash and upi.
